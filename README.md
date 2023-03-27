@@ -1,4 +1,4 @@
-# 💫 Thaddaaeus 👯🤝
+# 💫 Thaddaeus 👯🤝
 🔭 I’m currently working on reactjs, solidity and sql.<br>👯 I’m looking to collaborate on Fullstack projects.<br>🤝 I’m looking for help with nodejs.<br>🌱 I’m currently learning solidity, reacts and sql.<br>💬 Ask me about react.<br>⚡ Fun fact is that I love playing Basketball.
 
 
